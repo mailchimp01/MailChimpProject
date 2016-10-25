@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39852" started-at="2016-10-04T13:54:28Z" finished-at="2016-10-04T13:55:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39852" started-at="2016-10-04T13:54:28Z" finished-at="2016-10-04T13:55:08Z">
+      <class name="TestCases.TestCreateList">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.TestCreateList@26be92ad]" name="setUp" is-config="true" duration-ms="16933" started-at="2016-10-04T21:54:28Z" finished-at="2016-10-04T21:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginToMailChimp()[pri:0, instance:TestCases.TestCreateList@26be92ad]" name="LoginToMailChimp" is-config="true" duration-ms="6734" started-at="2016-10-04T21:54:45Z" finished-at="2016-10-04T21:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToMailChimp -->
+        <test-method status="PASS" signature="Testloginsuccesfully()[pri:0, instance:TestCases.TestCreateList@26be92ad]" name="Testloginsuccesfully" duration-ms="16132" started-at="2016-10-04T21:54:52Z" finished-at="2016-10-04T21:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testloginsuccesfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.TestCreateList@26be92ad]" name="tearDown" is-config="true" duration-ms="34" started-at="2016-10-04T21:55:08Z" finished-at="2016-10-04T21:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestCreateList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
